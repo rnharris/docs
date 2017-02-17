@@ -13,4 +13,4 @@ navigation:
   show: true
 ---
 
-We are aware that "sendgrid.net" is on a URIBL Greylist and have been monitoring it very closely.  We are consistently in contact with the organizers of the list and are working closely to remove "sendgrid.net". Currently, there is no evidence of any actual impact on deliverability due to the greylisting. If you have evidence of blocks or bounces resulting directly because of this listing, please reach out to support [here](https://support.sendgrid.com/hc/en-us).
+We are aware that "sendgrid.net" is on a URIBL Greylist.  The Greylist is intended for ESPs and we cannot be removed from this greylisting. Please review http://uribl.com/about.shtml; grey.uribl.com further explains why we can't be removed. If you have evidence of blocks or bounces resulting directly because of this listing, please reach out to support [here](https://support.sendgrid.com/hc/en-us).
